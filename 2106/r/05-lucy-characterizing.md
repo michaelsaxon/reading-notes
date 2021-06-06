@@ -17,7 +17,7 @@ However, there is a problem with these simple frequentist analyses---differences
 
 Among the techniques they employ to do this are knn clustering on BERT embeddings and spectral clustering using a Graph Laplacian produced via a similarity matrix of embeddings. They use SemEval tasks to evaluate the performance of their WSI before turning to employing it in the study of the Reddit communities.
 
-!(Table from the paper)[../img/05-lucy-characterizing-1.png]
+![Table from the paper](../img/05-lucy-characterizing-1.png)
 
 
 
