@@ -1,7 +1,10 @@
 # Characterizing English Variation across Social Media Communities with BERT
 Authors: **Li Lucy, David Bamman**
+
 Venue: *TACL 2021*
+
 Link: [arXiv](https://arxiv.org/abs/2102.06820)
+
 Topics: sociolinguistics, social media, NLP, BERT
 
 ## Summary

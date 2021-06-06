@@ -47,7 +47,7 @@ def main(d):
     with open(basepath + fname, "w") as f:
         domain = url.split("//")[-1].split("/")[0].strip().strip("www.").lower()
         urlname = URLDICT.get(domain, domain)
-        f.write(f"# {title}\nAuthors: **{authors}**\nVenue: *{venue}*\nLink: [{urlname}]({url})\nTopics: \n\n## Summary\n\n## Thoughts\n\n")
+        f.write(f"# {title}\nAuthors: **{authors}**\n\nVenue: *{venue}*\n\nLink: [{urlname}]({url})\n\nTopics: \n\n## Summary\n\n## Thoughts\n\n")
     print(f"Generated md file at location: {basepath + fname}")
     with open("tmp.l", "w") as f:
         f.write(basepath + fname)

@@ -1,7 +1,10 @@
 # Limitations of Autoregressive Models and Their Alternatives
 Authors: **Chu-Cheng Lin, Aaron Jaech, Xin Li, Matthew R. Gormley, Jason Eisner**
+
 Venue: *NAACL 2021*
+
 Link: [arXiv](https://arxiv.org/abs/2010.11939v2)
+
 Topics: theoretical CS, NLP, language models, autoregressive, proofs
 
 ## Summary

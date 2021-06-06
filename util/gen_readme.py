@@ -22,8 +22,8 @@ def gen_link_line(basepath, fname):
     lines = open(basepath + fname, "r").readlines()
     title = lines[0].strip("# ").strip()
     authors = lines[1].strip("Authors: ").strip().strip("**")
-    topicstr = lines[4].strip()
-    return f"#### {title}\nAuthors: *{authors}*\n{topicstr}\n[My Summary](r/{fname})\n\n"
+    topicstr = lines[7].strip()
+    return f"#### {title}\nAuthors: *{authors}*\n\n{topicstr}\n\n[My Summary](r/{fname})\n\n"
 
 @click.command()
 @click.option('-d', default = None)
