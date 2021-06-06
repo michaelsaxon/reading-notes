@@ -3,6 +3,15 @@
 
 ## By Date
 
+### June 6, 2021
+
+#### FreeLB: Enhanced Adversarial Training for Natural Language Understanding
+Authors: *Chen Zhu, Yu Cheng, Zhe Gan, Siqi Sun, Tom Goldstein, Jingjing Liu*
+
+Topics: adversarial training, language models
+
+[My Summary](r/06-zhu-freelb:.md)
+
 ### June 5, 2021
 
 #### Characterizing English Variation across Social Media Communities with BERT
