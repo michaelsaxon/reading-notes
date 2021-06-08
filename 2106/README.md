@@ -12,6 +12,15 @@ Topics: adversarial training, language models
 
 [My Summary](r/06-zhu-freelb:.md)
 
+### June 7, 2021
+
+#### Exploring Transfer Learning For End-to-End Spoken Language Understanding
+Authors: *Subendhu Rongali, Beiye Liu, Liwei Cai, Konstantine Arkoudas, Chengwei Su, Wael Hamza*
+
+Topics: end-to-end SLU, spoken language understanding, transformer, joint decoder
+
+[My Summary](r/07-rongali-exploring.md)
+
 ### June 5, 2021
 
 #### Characterizing English Variation across Social Media Communities with BERT
