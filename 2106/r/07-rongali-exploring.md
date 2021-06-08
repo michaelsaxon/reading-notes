@@ -17,7 +17,7 @@ Opens with the core justification of end-to-end SLU. They propose a model that i
 
 To get around this, they apply transfer learning, jointly training audio- and text-level encoders to text-level decoders. Among the tasks in the mix are ASR, SLU, Cloze, and NLU.
 
-![their figure 1, the model diagram](07-rongali-1.png)
+![their figure 1, the model diagram](../img/07-rongali-1.png)
 
 Among the interesting innovations are: 
 
