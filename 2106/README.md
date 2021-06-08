@@ -3,15 +3,6 @@
 
 ## By Date
 
-### June 6, 2021
-
-#### FreeLB: Enhanced Adversarial Training for Natural Language Understanding
-Authors: *Chen Zhu, Yu Cheng, Zhe Gan, Siqi Sun, Tom Goldstein, Jingjing Liu*
-
-Topics: adversarial training, language models
-
-[My Summary](r/06-zhu-freelb:.md)
-
 ### June 7, 2021
 
 #### Exploring Transfer Learning For End-to-End Spoken Language Understanding
@@ -20,6 +11,15 @@ Authors: *Subendhu Rongali, Beiye Liu, Liwei Cai, Konstantine Arkoudas, Chengwei
 Topics: end-to-end SLU, spoken language understanding, transformer, joint decoder
 
 [My Summary](r/07-rongali-exploring.md)
+
+### June 6, 2021
+
+#### FreeLB: Enhanced Adversarial Training for Natural Language Understanding
+Authors: *Chen Zhu, Yu Cheng, Zhe Gan, Siqi Sun, Tom Goldstein, Jingjing Liu*
+
+Topics: adversarial training, language models
+
+[My Summary](r/06-zhu-freelb:.md)
 
 ### June 5, 2021
 

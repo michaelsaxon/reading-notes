@@ -52,7 +52,7 @@ def main(d):
         days = sorted(list(dfd.keys()))
         days = list(reversed(days))
         print(days)
-        for day in dfd.keys():
+        for day in days:
             ostr += f"### {month} {int(day)}, {year}\n\n"
             for fname in dfd[day]:
                 ostr += gen_link_line(basepath, fname)
