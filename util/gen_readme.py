@@ -49,7 +49,9 @@ def main(d):
 
     with open(path + "README.md", "w") as f:
         ostr = f"# Michael's Reading Notes ({month} {year})\n[Back to home](../README.md)\n\n## By Date\n\n"
-        days = reversed(list(dfd.keys()))
+        days = sorted(list(dfd.keys()))
+        days = list(reversed(days))
+        print(days)
         for day in dfd.keys():
             ostr += f"### {month} {int(day)}, {year}\n\n"
             for fname in dfd[day]:
