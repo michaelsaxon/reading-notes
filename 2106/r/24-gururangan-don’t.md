@@ -5,7 +5,7 @@ Venue: *ACL 2020*
 
 Link: [ACL Anthology](https://www.aclweb.org/anthology/2020.acl-main.740/)
 
-Topics: 
+Topics: roberta, language models, fine-tuning, pre-training
 
 ## Summary
 

@@ -3,6 +3,15 @@
 
 ## By Date
 
+### June 24, 2021
+
+#### Don’t Stop Pretraining: Adapt Language Models to Domains and Tasks
+Authors: *Suchin Gururangan, Ana Marasović, Swabha Swayamdipta, Kyle Lo, Iz Beltagy, Doug Downey, Noah A. Smith*
+
+Topics: roberta, language models, fine-tuning, pre-training
+
+[My Summary](r/24-gururangan-don’t.md)
+
 ### June 7, 2021
 
 #### Exploring Transfer Learning For End-to-End Spoken Language Understanding
