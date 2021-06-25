@@ -11,4 +11,4 @@ Trying to hack a stronger continuous paper reading habit with the green squares.
 
 Eventually, I might list papers by date of publication and by topic, but for now I'll just do one short markdown file per paper, sorted in folders by-month-I-read. I might even use these as starting points for fleshed out lit review documents or blog posts.
 
-If you aren't me, and are reading the things I write here, please forgive me for the many errors!!!
+**If you aren't me, and are reading the things I write here, please don't be too harsh a judge!!! I don't plan to promote this repo, it's mainly public for my easy access, and the higher stakes of doing writing in semi-public. Forgive me for the many errors it doubtless contains.**
